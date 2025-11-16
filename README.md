@@ -1,30 +1,33 @@
-# Sistema de Nota
+# Grade System
 
-Exercício simples de loops e lógica em Java, desenvolvido para a UNICAP.
+Simple loops and logic exercise in Java, developed for UNICAP.
 
-## Descrição
+## 📝 Description
 
-Este projeto demonstra o uso de estruturas de repetição e lógica básica em Java para cálculos ou manipulação de notas.
+This project demonstrates the use of loop structures and basic logic in Java for grade calculations or manipulation.
 
-## Como usar
+## 🚀 How to Use
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Mateus-F-Moura/Sistema_de_Nota.git
-   ```
+1. **Clone this repository:**
 
-2. Compile o código:
-   ```bash
-   javac NomeDoArquivo.java
-   ```
+```bash
+git clone https://github.com/Mateus-F-Moura/Sistema_de_Nota.git
+```
 
-3. Execute o programa:
-   ```bash
-   java NomeDoArquivo
-   ```
+2. **Compile the code:**
 
-*(Substitua `NomeDoArquivo` pelo nome do arquivo principal do projeto.)*
+```bash
+javac FileName.java
+```
 
-## Licença
+3. **Run the program:**
 
-Este projeto é apenas para fins educacionais.
+```bash
+java FileName
+```
+
+*(Replace `FileName` with the name of the project's main file.)*
+
+## 📜 License
+
+This project is for educational purposes only.
